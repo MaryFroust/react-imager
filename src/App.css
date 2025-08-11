@@ -24,7 +24,7 @@ body{
     /* padding: 25px; */
 }
 
-button{
+#toolBar button{
   cursor: pointer;
 }
 
